@@ -2,6 +2,8 @@
    E-mail: Leehtironi@gmail.com.
    Caso encontre algum bug, favor avisar.
    Todos os direitos reservados.
+   By the way, as fontes e imagens podem ser baixadas nesse link:
+   https://mega.nz/#F!xtY3iDSQ!KUmZz4pgqRZatMuEHiBHwghttps://mega.nz/#F!xtY3iDSQ!KUmZz4pgqRZatMuEHiBHwg
 */
 
 #include <allegro5/allegro.h>
